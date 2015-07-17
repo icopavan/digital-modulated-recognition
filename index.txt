@@ -1,0 +1,31 @@
+文件夹 PATH 列表
+卷序列号为 C477-0276
+C:.
+└─Source
+        debug.m              //调试用
+        generate_signal.m    //产生信号函数
+        judge.m              //判决函数
+        main.m               //主脚本
+        MPSK.fig   
+        recognize.m          //主识别脚本
+        recognize_16QAM_64QAM.m //识别16QAM和64QAM
+        recognize_MPSK.fig
+        recognize_MPSK.m       //MPSK类内识别
+        recognize_MQAM.m      //MQAM类内识别
+        result1.fig
+        result2.fig
+        result3.fig
+        result4.fig
+        sub_clust.m        //减法聚类
+        test_16QAM_64QAM.fig //下面的都是测试判决门限等的脚本
+        test_16QAM_64QAM.m   
+        test_8QAM_high_cum.fig
+        test_8QAM_high_cum.m
+        test_data_num.m
+        test_mA_rmax.m
+        test_MPSK_4_high_cum.fig
+        test_MPSK_4_high_cum.m
+        test_MPSK_MQAM_high_cum.m
+        test_phase.fig
+        test_phase.m
+        
